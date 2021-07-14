@@ -22,9 +22,9 @@
   *	두 눈의 초점의 중점을 잡아서 해당 컴퓨터의 마우스 커서를 움직이게 한다.
   *	마우스 기능 및 그 외의 기능들을 실행하기 위해서는 한 곳을 일정 시간 응시하고, interface가 출현한다.
 + ### Eyemouse System Process
-  * <img src="doc/img/Eyemouse_System_Process.png" width="600" height="600">
+  * <img src="docs/Eyemouse_System_Process.png" width="600" height="600">
 + ### Pupil Synchronizing
-  * <img src="doc/img/Pupil_Synchronizing.png" width="400" height="250">
+  * <img src="docs/Pupil_Synchronizing.png" width="400" height="250">
 
 ## 3. Project Development Process
 + ### Face Detection
