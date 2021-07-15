@@ -1,4 +1,7 @@
 # EyeMouse
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkingjakeu%2FEyeMouse&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ## 1. Project Overview 
 + ### Purpose 
   * Web-cam을 기반으로 한 Eye-mouse 개발
